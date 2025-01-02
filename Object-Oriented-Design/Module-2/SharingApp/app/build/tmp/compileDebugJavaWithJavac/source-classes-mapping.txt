@@ -1,0 +1,28 @@
+com/example/sharingapp/BuildConfig.java
+ com.example.sharingapp.BuildConfig
+com/example/sharingapp/AddItemActivity.java
+ com.example.sharingapp.AddItemActivity
+com/example/sharingapp/ItemsFragment.java
+ com.example.sharingapp.ItemsFragment
+ com.example.sharingapp.ItemsFragment$1
+com/example/sharingapp/Dimensions.java
+ com.example.sharingapp.Dimensions
+com/example/sharingapp/EditItemActivity.java
+ com.example.sharingapp.EditItemActivity
+com/example/sharingapp/AllItemsFragment.java
+ com.example.sharingapp.AllItemsFragment
+com/example/sharingapp/SectionsPagerAdapter.java
+ com.example.sharingapp.SectionsPagerAdapter
+com/example/sharingapp/MainActivity.java
+ com.example.sharingapp.MainActivity
+com/example/sharingapp/Item.java
+ com.example.sharingapp.Item
+com/example/sharingapp/AvailableItemsFragment.java
+ com.example.sharingapp.AvailableItemsFragment
+com/example/sharingapp/BorrowedItemsFragment.java
+ com.example.sharingapp.BorrowedItemsFragment
+com/example/sharingapp/ItemList.java
+ com.example.sharingapp.ItemList
+ com.example.sharingapp.ItemList$1
+com/example/sharingapp/ItemAdapter.java
+ com.example.sharingapp.ItemAdapter
